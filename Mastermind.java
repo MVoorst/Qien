@@ -95,7 +95,7 @@ public class Mastermind {
 				"Fout	Dit cijfer zit niet in mijn reeks. \n" +
 				"Wit	Dit cijfer is aanwezig in mijn reeks, maar zit niet op de juiste plek. \n" +
 				"Zwart	Dit cijfer klopt en zit op de juiste plek. \n" +
-				"Succes! /n");
+				"Succes!");
 	}
 }	
 	
